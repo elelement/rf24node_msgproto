@@ -6,7 +6,7 @@
 	url = https://github.com/tmrh20/RF24Network.git
 [submodule "libs/csiphash"]
 	path = libs/csiphash
-	url = https://raw.githubusercontent.com/majek/csiphash
+	url = https://github.com/majek/csiphash.git
 [submodule "libs/mosquitto"]
 	path = libs/mosquitto
 	url = http://git.eclipse.org/gitroot/mosquitto/org.eclipse.mosquitto.git
